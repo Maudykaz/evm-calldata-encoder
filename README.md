@@ -19,3 +19,4 @@ Useful for debugging, contract interaction, and low-level simulations.
 - Update note 5806
 - Update note 5585
 - Update note 9666
+- Update note 7192

@@ -13,3 +13,4 @@ Useful for debugging, contract interaction, and low-level simulations.
 - Update note 7201
 - Update note 2891
 - Update note 9893
+- Update note 7815

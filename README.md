@@ -28,3 +28,4 @@ Useful for debugging, contract interaction, and low-level simulations.
 - Update note 8579
 - Update note 7375
 - Update note 7552
+- Update note 9578

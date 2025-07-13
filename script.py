@@ -11,3 +11,4 @@
 # refactor 2952
 # fix 1972
 # optimize 1753
+# refactor 2906

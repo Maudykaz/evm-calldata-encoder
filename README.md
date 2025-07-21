@@ -50,3 +50,4 @@ Useful for debugging, contract interaction, and low-level simulations.
 - Update note 6392
 - Update note 3002
 - Update note 1630
+- Update note 8293
